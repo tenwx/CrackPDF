@@ -52,7 +52,7 @@
 				<configuration>
 					<archive>
 						<manifest>
-							<mainClass>Main</mainClass>
+							<mainClass>info.terence2008.Main</mainClass>
 						</manifest>
 					</archive>
 					<descriptorRefs>
